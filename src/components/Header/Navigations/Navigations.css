@@ -1,0 +1,25 @@
+.Navigations {
+    right: 0;
+    top: 0;
+    display: flex;
+    cursor: pointer;
+}
+
+.Navigations a {
+    text-align: center;
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 20px 10px;
+    width: 140px;
+    border: 0px solid black;
+}
+
+#Button1{
+    background-color: #F0A30A;
+}
+#Button2{
+    background-color: #FA6800;
+}
+#Button3{
+    background-color: #E51400;
+}

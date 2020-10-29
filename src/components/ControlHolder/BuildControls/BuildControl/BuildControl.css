@@ -1,0 +1,25 @@
+.BuildControl {
+    justify-content: space-evenly;
+    padding: 10px;
+    text-align: center;
+}
+
+.BuildControl label{
+    padding: 10px;
+}
+
+.BuildControl button{
+    margin: 0 15px;
+    padding: 10px 10px;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+}
+
+.Add {
+    background-color: #F0A30A;
+}
+
+.Remove {
+    background-color: tomato;
+}

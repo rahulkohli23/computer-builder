@@ -1,0 +1,7 @@
+.ControlHolder {
+    height: 40vh;
+    width: 100%;
+    background-color: #DAE8FC;
+    justify-content: center;
+    display: flex;
+}
